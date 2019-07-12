@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{EB19BD10-36C2-7BA5-090F-24F0C7D22B61}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player Scripts/PlayerMovement.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/Helper Scripts/TagHolder.cs" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerSprintAndCrouch.cs" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerFootsteps.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jungle" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Helper Scripts" expanded="True" />
+                <Node name="Player Scripts" expanded="True">
+                  <Node name="PlayerMovement.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ed9dbefc-39f1-4fa3-948f-2fe01383ed2a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
